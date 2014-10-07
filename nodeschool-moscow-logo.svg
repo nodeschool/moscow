@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
-  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.2" baseProfile="tiny" id="Слой_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595.28px"
-	 height="488.889px" viewBox="0 0 595.28 488.889" xml:space="preserve">
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595.28px" height="488.889px" viewBox="0 0 595.28 488.889" xml:space="preserve">
 <g>
 	<polygon fill="#CDDDF2" points="483.431,352.109 297.852,459.253 112.273,352.109 112.273,137.82 297.852,30.676 483.431,137.82 	
 		"/>
