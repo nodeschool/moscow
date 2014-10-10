@@ -1,6 +1,6 @@
 # Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at NodeSchool Berlin are required to agree 
+All attendees, speakers, sponsors and volunteers at NodeSchool Moscow are required to agree 
 with the following code of conduct. Organizers will enforce this code throughout the event. 
 We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
 
